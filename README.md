@@ -1,5 +1,6 @@
-# readme
-readme
+# Soul Food Ingradients
+
+List of items stuff that I used and  have been using.
 
 # web stacks
 
@@ -12,9 +13,11 @@ readme
 
 . git, github, gitlab
 . npm, bower, yeoman
-. transpiler, babel, traceur
+. (transpiler), babel, traceur
 . livereload, webpack, browserify
 . json-server, httpie, http-server, (python -m simpleHTTPServer)
+. docker, vigrant, vmware
+. heroku, digitial ocean
 
 ## libraries, frameworkes
 
@@ -38,7 +41,7 @@ readme
 
 ## test
 
-. selenium, nightware
+. selenium, nightwatch
 . mocha, chai, sinon, jasmine, karma
 . travis-ci, gitlab-ci
 
