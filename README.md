@@ -4,20 +4,20 @@ List of items stuff that I used and  have been using.
 
 # web stacks
 
-. mean (mongodb, express, angular, node)
-. python django
-. ruby on rails
+. mean ([mongodb](https://www.mongodb.com), [express](http://www.expressjs.com), [angular](http://www.angularjs.org), [node](https://wwww.nodejs.org))
+. [python](https://www.python.org), [django](https://www.djangoproject.com)
+. [ruby](https://www.ruby-lang.org) on [rails](http://rubyonrails.org/)
 . (old ones: lamp, perl)
 
 ## tools
 
-. git, github, gitlab
-. npm, bower, yeoman
-. (transpiler), babel, traceur
-. livereload, webpack, browserify
-. json-server, httpie, http-server, (python -m simpleHTTPServer)
-. docker, vigrant, vmware
-. heroku, digitial ocean
+. git, [github](https://github.com), [gitlab](https://about.gitlab.com), [postman](https://www.getpostman.com),  [curl](https://curl.haxx.se), [wget](https://www.gnu.org/software/wget), [httpie](https://github.com/jkbrzt/httpie)
+. [npm](https://www.npmjs.com), [bower](https://bower.io), [yeoman](http://www.yeoman.io) 
+. (transpiler), [babel](https://babeljs.io), [traceur](https://github.com/google/traceur-compiler) 
+. [livereload](http://livereload.com), [webpack](https://webpack.github.io), [browserify](http://browserify.org) 
+. json-server, http-server, (python -m simpleHTTPServer) 
+. [docker](https://www.docker.com), [vigrant](https://www.vagrantup.com), [virtualbox](https://www.virtualbox.org), [vmware](www.vmware.com) 
+. [heroku](https://www.heroku.com), [digitial ocean](https://www.digitalocean.com) 
 
 ## libraries, frameworkes
 
