@@ -1,6 +1,6 @@
-# Soul Food Ingradients
+# Web Kitchen
 
-List of items stuff that I used and  have been using.
+Wanna make tasty web app with bells and whistles. Be prepare, we gonna needs lots of them. Get your kitchenwares, ingradients and start cooking, slow cook, deep fries, souvis, boiling, and sweats. Then bring out your sliverwares and enjoy! 
 
 # web stacks
 
