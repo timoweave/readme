@@ -41,7 +41,7 @@ List of items stuff that I used and  have been using.
 
 ## test
 
-. selenium, nightwatch
-. mocha, chai, sinon, jasmine, karma
-. travis-ci, gitlab-ci
+. [selenium](http://www.seleniumhq.org/), [nightwatch](http://nightwatchjs.org)
+. [mocha](https://mochajs.org), [chai](http://chaijs.com), [sinon](http://sinonjs.org), [jasmine](http://jasmine.github.io), [karma](https://karma-runner.github.io)
+. [travis-ci](https://travis-ci.org), [gitlab-ci](https://about.gitlab.com/gitlab-ci)
 
